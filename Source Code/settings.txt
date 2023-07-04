@@ -1,0 +1,10 @@
+-2	// k
+5000	// seed_size
+20	// g_layer_num
+100	// g_layer_node_num
+10	// d_layer_num
+50	// d_layer_node_num
+0	// use_convolution
+0.1	// g_learning_rate
+0.1	// d_learning_rate
+0.6	// d_accuracy_target
